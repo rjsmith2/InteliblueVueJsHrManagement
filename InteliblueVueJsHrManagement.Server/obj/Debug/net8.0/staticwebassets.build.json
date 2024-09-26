@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "GzaJ1E3s1PX8N195npqwKKB4ucxwEurVxGAF2H1U0V8=",
+  "Source": "InteliblueVueJsHrManagement.Server",
+  "BasePath": "_content/InteliblueVueJsHrManagement.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj",
+      "Version": 2,
+      "Source": "intelibluevuejshrmanagement.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

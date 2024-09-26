@@ -1,0 +1,785 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\dtos\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\dtos\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\components\\employeeform.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\components\\employeeform.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\components\\employeelist.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\components\\employeelist.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\services\\employeeservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\services\\employeeservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\services\\departmentservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\services\\departmentservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\dtos\\editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\dtos\\editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\contexts\\emitter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\contexts\\emitter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\types\\employee.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\types\\employee.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\types\\employeedetail.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\types\\employeedetail.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\types\\responseerrordata.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\types\\responseerrordata.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\types\\responsedata.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\types\\responsedata.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\shims-vue.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\shims-vue.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\node_modules\\typescript\\lib\\lib.es5.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:intelibluevuejshrmanagement.client\\node_modules\\typescript\\lib\\lib.es5.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\dtos\\newemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\dtos\\newemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\dbsets\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\dbsets\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\profiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\profiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\src\\types\\department.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\src\\types\\department.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\dbsets\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\dbsets\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\models\\dtos\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\models\\dtos\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\humanresourcedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\humanresourcedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\humanresourcedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\humanresourcedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F238B8F8-A02E-45EF-B6D6-33EE2E91B350}|InteliblueVueJsHrManagement.Server\\InteliblueVueJsHrManagement.Server.csproj|solutionrelative:intelibluevuejshrmanagement.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\.env.local||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\.env.local||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|c:\\users\\rjs23\\source\\repos\\intelibluevuejshrmanagement\\intelibluevuejshrmanagement.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{788BE124-AE3A-4C37-BC16-C9DE792E7B07}|intelibluevuejshrmanagement.client\\intelibluevuejshrmanagement.client.esproj|solutionrelative:intelibluevuejshrmanagement.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\readme.md",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\readme.md",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\readme.md",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\readme.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-26T20:26:03.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Dtos\\EditEmployee.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\Dtos\\EditEmployee.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Dtos\\EditEmployee.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\Dtos\\EditEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:04:23.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\App.vue",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\App.vue",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-09-26T01:30:28.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeForm.vue",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\components\\EmployeeForm.vue",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\components\\EmployeeForm.vue",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\components\\EmployeeForm.vue",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\components\\EmployeeForm.vue",
+              "ViewState": "AgIAAIEAAAAAAAAAAIAwwIkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-09-26T14:39:06.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeList.vue",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\components\\EmployeeList.vue",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\components\\EmployeeList.vue",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\components\\EmployeeList.vue",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\components\\EmployeeList.vue",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-09-26T14:37:38.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Dtos\\Department.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\Dtos\\Department.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Dtos\\Department.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\Dtos\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:51:27.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "emitter.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\contexts\\emitter.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\contexts\\emitter.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\contexts\\emitter.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\contexts\\emitter.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T19:35:57.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\Employee.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\types\\Employee.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\Employee.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\types\\Employee.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T18:30:14.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\services\\EmployeeService.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\services\\EmployeeService.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\services\\EmployeeService.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\services\\EmployeeService.ts",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T15:32:23.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:27:16.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDetail.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\EmployeeDetail.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\types\\EmployeeDetail.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\EmployeeDetail.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\types\\EmployeeDetail.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T18:30:57.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentService.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\services\\DepartmentService.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\services\\DepartmentService.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\services\\DepartmentService.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\services\\DepartmentService.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T16:23:38.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\index.html",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\index.html",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\index.html",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T01:42:36.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\assets\\main.css",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\assets\\main.css",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\assets\\main.css",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\assets\\main.css",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T14:27:24.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vyAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:31:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\vite.config.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\vite.config.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T15:44:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\tailwind.config.js",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\tailwind.config.js",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-26T14:26:50.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "postcss.config.js",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\postcss.config.js",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\postcss.config.js",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\postcss.config.js",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\postcss.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-26T18:44:46.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "env.d.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\env.d.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\env.d.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\env.d.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\env.d.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T12:57:50.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": ".eslintrc.cjs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\.eslintrc.cjs",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\.eslintrc.cjs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\.eslintrc.cjs",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\.eslintrc.cjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-26T17:45:12.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\tsconfig.json",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T15:34:05.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\main.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\main.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T14:28:37.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\DbSets\\Employee.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\DbSets\\Employee.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\DbSets\\Employee.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\DbSets\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:36:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Program.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Program.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:23:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Dtos\\NewEmployee.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\Dtos\\NewEmployee.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Dtos\\NewEmployee.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\Dtos\\NewEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:07:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "lib.es5.d.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\node_modules\\typescript\\lib\\lib.es5.d.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\node_modules\\typescript\\lib\\lib.es5.d.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\node_modules\\typescript\\lib\\lib.es5.d.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\node_modules\\typescript\\lib\\lib.es5.d.ts",
+              "ViewState": "AgIAACEEAAAAAAAAAAAAADIEAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T17:38:41.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "shims-vue.d.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\shims-vue.d.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\shims-vue.d.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\shims-vue.d.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\shims-vue.d.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T17:46:09.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResponseData.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\ResponseData.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\types\\ResponseData.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\ResponseData.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\types\\ResponseData.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T17:50:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResponseErrorData.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\ResponseErrorData.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\types\\ResponseErrorData.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\ResponseErrorData.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\types\\ResponseErrorData.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T17:51:26.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Profiles\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Profiles\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Profiles\\EmployeeProfile.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Profiles\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:57:45.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Profiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Profiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Profiles\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:57:37.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Result.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:57:54.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResultT.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\ResultT.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\ResultT.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\ResultT.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\ResultT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:58:49.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Error.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\Error.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Error.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:00:18.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Department.ts",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\Department.ts",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\src\\types\\Department.ts",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\src\\types\\Department.ts",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\src\\types\\Department.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T16:27:55.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HumanResourceDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\HumanResourceDbContextFactory.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\HumanResourceDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\HumanResourceDbContextFactory.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\HumanResourceDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:40:35.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\DbSets\\Department.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\DbSets\\Department.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\DbSets\\Department.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\DbSets\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:35.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HumanResourceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\HumanResourceDbContext.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\HumanResourceDbContext.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\HumanResourceDbContext.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\HumanResourceDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:40:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Dtos\\Employee.cs",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\Models\\Dtos\\Employee.cs",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\Models\\Dtos\\Employee.cs",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\Models\\Dtos\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:51:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\package.json",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\package.json",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\package.json",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T01:28:12.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "InteliblueVueJsHrManagement.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\InteliblueVueJsHrManagement.Server\\appsettings.json",
+              "RelativeToolTip": "InteliblueVueJsHrManagement.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T13:30:51.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": ".env.local",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\.env.local",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\.env.local",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\.env.local",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\.env.local",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-26T13:01:32.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\.env",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\.env",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\.env",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-26T13:00:38.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\README.md",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\README.md",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\README.md",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\README.md",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-26T01:38:11.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "intelibluevuejshrmanagement.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\rjs23\\source\\repos\\InteliblueVueJsHrManagement\\intelibluevuejshrmanagement.client\\CHANGELOG.md",
+              "RelativeToolTip": "intelibluevuejshrmanagement.client\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-26T13:02:07.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
